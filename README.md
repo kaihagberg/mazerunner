@@ -2,6 +2,7 @@
 
 ## Requirements
 
+* Java 8+
 * Git
 * Docker
 * Gradle
